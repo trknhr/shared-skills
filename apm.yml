@@ -1,0 +1,6 @@
+name: shared-skills
+version: 1.0.0
+description: Shared skill for testing Dependabot APM updates
+author: trknhr
+dependencies:
+  apm: []
